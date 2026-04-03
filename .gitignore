@@ -203,6 +203,12 @@ logs/
 .cursorignore
 .cursorindexingignore
 
+credentials.json
+token.json
+__pycache__/
+*.pyc
+
+
 # Marimo
 marimo/_static/
 marimo/_lsp/

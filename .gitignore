@@ -203,8 +203,8 @@ logs/
 .cursorignore
 .cursorindexingignore
 
-credentials.json
-token.json
+C:\Users\home\Desktop\AI\AI Calendar Assistant Project _ Tool Calling\app\config\credentials.json
+C:\Users\home\Desktop\AI\AI Calendar Assistant Project _ Tool Calling\app\data\token.json
 __pycache__/
 *.pyc
 

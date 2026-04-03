@@ -203,8 +203,8 @@ logs/
 .cursorignore
 .cursorindexingignore
 
-app\config\credentials.json
-app\data\token.json
+app/config/credentials.json
+app/data/token.json
 __pycache__/
 *.pyc
 
@@ -213,3 +213,7 @@ __pycache__/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# OS files
+.DS_Store
+Thumbs.db
